@@ -1,3 +1,7 @@
+# Introduction
+
+본 소스는 Vagrantfile과 Puppet 설정 파일을 포함하고 있습니다.
+
 # LAMP Stacks Made Easy with Vagrant & Puppet
 
 Building a LAMP stack with Puppet and Vagrant to develop, test, and/or build the worlds next great application should be easy. Use this all inclusive code to quickly kickstart your next application environement.
@@ -40,3 +44,4 @@ You're all set up. The webserver will now be accessible from http://localhost:88
 * curl
 * vim
 * htop
+* git
